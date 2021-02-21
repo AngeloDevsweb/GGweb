@@ -8,13 +8,13 @@ export default class home extends Component {
                 <div id="carouselExampleFade" className="carousel slide carousel-fade mb-5" data-ride="carousel">
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
-                                    <img src="/build/images/fortnite.jpg" className="d-block tamaño-banner" alt="..."/>
+                                    <img src="/images/fortnite.jpg" className="d-block tamaño-banner" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="/build/images/minecraft2.jpg" className="d-block tamaño-banner" alt="..."/>
+                                    <img src="/images/minecraft2.jpg" className="d-block tamaño-banner" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="/build/images/warzone.jpg" className="d-block tamaño-banner" alt="..."/>
+                                    <img src="/images/warzone.jpg" className="d-block tamaño-banner" alt="..."/>
                                 </div>
                             </div>
                             <a className="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
