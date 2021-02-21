@@ -1,0 +1,78 @@
+.tamaño-banner{
+    height: 650px;
+    width: 100%;
+}
+
+.brand{
+    font-size: 30px;
+    color: #f5eded;
+    text-decoration: none;
+}
+.brand:hover{
+    text-decoration: none;
+    color: dimgrey;
+}
+
+.navigation{
+    font-size: 20px;
+    color: #f5eded;
+    margin-left: 15px;
+}
+.navigation:hover{
+    text-decoration: none;
+    color: dimgrey;
+}
+
+
+.titulo-noticias{
+    color: black ;
+    font-size: 22px;
+    font-weight:600;
+}
+.titulo-noticias:hover{
+    text-decoration: none;
+    color: lightslategrey;
+}
+
+.tamaño-portadas{
+    width: 100%;
+    height: 110px;
+    
+}
+
+.title-noticia{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-size: 48px;
+}
+.estilo-parrafos{
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.padreRedimension{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.redimension{
+    height: 300px;
+    font-weight: 300px;
+    
+}
+
+.enlaces{
+    color:#3e3636;
+}
+.enlaces:hover{
+    color: #000000;
+    text-decoration: none;
+}
+
+.piedepagina{
+    background-color: #3e3636;
+    text-align: center;
+}
