@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GGweb/static/css/main.1fa4460c.chunk.css",
-    "main.js": "/GGweb/static/js/main.124bbad7.chunk.js",
-    "main.js.map": "/GGweb/static/js/main.124bbad7.chunk.js.map",
+    "main.js": "/GGweb/static/js/main.248cee8e.chunk.js",
+    "main.js.map": "/GGweb/static/js/main.248cee8e.chunk.js.map",
     "runtime-main.js": "/GGweb/static/js/runtime-main.2e998d21.js",
     "runtime-main.js.map": "/GGweb/static/js/runtime-main.2e998d21.js.map",
     "static/css/2.150d169a.chunk.css": "/GGweb/static/css/2.150d169a.chunk.css",
@@ -12,13 +12,22 @@
     "static/css/2.150d169a.chunk.css.map": "/GGweb/static/css/2.150d169a.chunk.css.map",
     "static/css/main.1fa4460c.chunk.css.map": "/GGweb/static/css/main.1fa4460c.chunk.css.map",
     "static/js/2.94fa3874.chunk.js.LICENSE.txt": "/GGweb/static/js/2.94fa3874.chunk.js.LICENSE.txt",
-    "static/media/fortnite.55b95115.jpg": "/GGweb/static/media/fortnite.55b95115.jpg"
+    "static/media/doblexp.27b45013.jpg": "/GGweb/static/media/doblexp.27b45013.jpg",
+    "static/media/fallguys.d9da731a.jpg": "/GGweb/static/media/fallguys.d9da731a.jpg",
+    "static/media/fortnite.55b95115.jpg": "/GGweb/static/media/fortnite.55b95115.jpg",
+    "static/media/minecraft2.271dc80a.jpg": "/GGweb/static/media/minecraft2.271dc80a.jpg",
+    "static/media/nochedecortos.4bfeced7.jpg": "/GGweb/static/media/nochedecortos.4bfeced7.jpg",
+    "static/media/noticia1.88db8e2c.png": "/GGweb/static/media/noticia1.88db8e2c.png",
+    "static/media/nuevasnapshot.91e644cf.jpg": "/GGweb/static/media/nuevasnapshot.91e644cf.jpg",
+    "static/media/parche15.40.b64dcfcb.jpg": "/GGweb/static/media/parche15.40.b64dcfcb.jpg",
+    "static/media/warzone.d68288db.jpg": "/GGweb/static/media/warzone.d68288db.jpg",
+    "static/media/warzone2.8241f6f6.jpg": "/GGweb/static/media/warzone2.8241f6f6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2e998d21.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.94fa3874.chunk.js",
     "static/css/main.1fa4460c.chunk.css",
-    "static/js/main.124bbad7.chunk.js"
+    "static/js/main.248cee8e.chunk.js"
   ]
 }
