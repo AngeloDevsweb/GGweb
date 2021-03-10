@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-
+import fortnite from '../images/fortnite.jpg'
 export default class home extends Component {
     render() {
         return (
@@ -8,7 +8,7 @@ export default class home extends Component {
                 <div id="carouselExampleFade" className="carousel slide carousel-fade mb-5" data-ride="carousel">
                             <div className="carousel-inner">
                                 <div className="carousel-item active">
-                                    <img src="/images/fortnite.jpg" className="d-block tamaño-banner" alt="..."/>
+                                    <img src={fortnite} className="d-block tamaño-banner" alt="..."/>
                                 </div>
                                 <div class="carousel-item">
                                     <img src="/images/minecraft2.jpg" className="d-block tamaño-banner" alt="..."/>
