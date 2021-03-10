@@ -13,19 +13,21 @@ import Newtemp from './component/noticias/newtemp'
 
 function App() {
   return (
+    
     <Router>
       
       <Navegacion/>
-
-      <Route path="/" exact component={Home} />
-      <Route path="/noticias" component={Noticias} />
-
-      <Route path="/fallguysMicrosoft"  component={FallguysMicrosoft} />
-      <Route path="/doblexpWarzone" component={Doblexp} />
-      <Route path="/temporada2" component={Newtemp} />
       
+      <Route path="/" exact component={Home} />
+        <Route path="/noticias" component={Noticias} />
+
+        <Route path="/fallguysMicrosoft"  component={FallguysMicrosoft} />
+        <Route path="/doblexpWarzone" component={Doblexp} />
+        <Route path="/temporada2" component={Newtemp} />
+        
       
       </Router>
+      
       
   );
 }
